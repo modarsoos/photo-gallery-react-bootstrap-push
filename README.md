@@ -1,5 +1,5 @@
 # تطبيق معرض الصور باستخدام React و Bootstrap
-![Screenshot](2023-10-18%2020_02_42-Window.png.png)
+![Screenshot](2023-10-18%2020_02_42-Window.png)
 
 ## الإصدار 1.0.0 - إصدار "معرض الصور
 
